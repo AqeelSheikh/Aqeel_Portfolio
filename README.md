@@ -4,7 +4,7 @@
 # Sheikhtech
 # Sheikhtech is a Minimal Portfolio Template built with React and Vite, easy to use 
 
-<img src="src/images/home.png" alt="Home UI">
+<img src="src/images/Aqeel_Portfolio.png" alt="Home UI">
 
 
 
@@ -40,8 +40,7 @@ Install NPM or PNPM
 
 ## Usage
 
-* Open the file `index.html` and replace `<title>Singleton</title>` with `<title>Your Name</title>`
-* Open the file `src/data.js` and make changes.
+
 
 
 ## Build & deploy
