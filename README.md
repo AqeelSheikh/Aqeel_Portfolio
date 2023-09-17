@@ -1,12 +1,12 @@
 <div id="top"></div>
 
 
-# Singleton
-Singleton is a Minimal Portfolio Template built with React and Vite, easy to use 
+# Sheikhtech
+# Sheikhtech is a Minimal Portfolio Template built with React and Vite, easy to use 
 
 <img src="src/images/home.png" alt="Home UI">
 
-[Live Preview](https://singleton-portfolio.netlify.app/)
+
 
 
 ## Prerequisites
@@ -27,10 +27,6 @@ Install NPM or PNPM
 
 ## Setup
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/josnethmoreno/singleton.git
-   ```
    
 2. Install NPM packages
    ```sh
@@ -65,3 +61,4 @@ Install NPM or PNPM
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p># Aqeel_Portfolio
+# Aqeel_Portfolio
